@@ -17,6 +17,10 @@ The <a href="http://en.wikipedia.org/wiki/Software_testability">testability</a> 
 
 The Unity bundled version of Monodevelop is borked; the unit test runner is broken. Get the latest version from <a href="http://monodevelop.com/Download">monodevelop.com</a>
 
+* Mono 2.1.x
+
+You can get it <a href="http://www.go-mono.com/mono-downloads/download.html">here</a>
+
 <dl>
   <dt>To get started</dt>
 </dl>
